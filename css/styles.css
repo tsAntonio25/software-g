@@ -76,7 +76,7 @@ div.up button:active {
 }
     
     header.homeHeader .headerpic {
-        background: url(assets/images/imgbg.jpg);
+        background: url(../assets/images/imgbg.jpg);
         background-position: center;
         background-size: cover;
         height: 80vh;
@@ -1296,7 +1296,7 @@ div.up button:active {
     header {
         padding: 5em;
         height: 40vh;
-        background-image: url(/assets/images/imgbg.jpg);
+        background-image: url(../assets/images/imgbg.jpg);
         background-size: cover;
         }
 
